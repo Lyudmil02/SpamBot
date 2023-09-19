@@ -1,0 +1,17 @@
+D:\C#\C# Projects\SpamBot\SpamBot\bin\Debug\net6.0-windows\SpamBot.exe
+D:\C#\C# Projects\SpamBot\SpamBot\bin\Debug\net6.0-windows\SpamBot.deps.json
+D:\C#\C# Projects\SpamBot\SpamBot\bin\Debug\net6.0-windows\SpamBot.runtimeconfig.json
+D:\C#\C# Projects\SpamBot\SpamBot\bin\Debug\net6.0-windows\SpamBot.dll
+D:\C#\C# Projects\SpamBot\SpamBot\bin\Debug\net6.0-windows\SpamBot.pdb
+D:\C#\C# Projects\SpamBot\SpamBot\obj\Debug\net6.0-windows\SpamBot.csproj.AssemblyReference.cache
+D:\C#\C# Projects\SpamBot\SpamBot\obj\Debug\net6.0-windows\SpamBot.Form1.resources
+D:\C#\C# Projects\SpamBot\SpamBot\obj\Debug\net6.0-windows\SpamBot.csproj.GenerateResource.cache
+D:\C#\C# Projects\SpamBot\SpamBot\obj\Debug\net6.0-windows\SpamBot.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C# Projects\SpamBot\SpamBot\obj\Debug\net6.0-windows\SpamBot.AssemblyInfoInputs.cache
+D:\C#\C# Projects\SpamBot\SpamBot\obj\Debug\net6.0-windows\SpamBot.AssemblyInfo.cs
+D:\C#\C# Projects\SpamBot\SpamBot\obj\Debug\net6.0-windows\SpamBot.csproj.CoreCompileInputs.cache
+D:\C#\C# Projects\SpamBot\SpamBot\obj\Debug\net6.0-windows\SpamBot.dll
+D:\C#\C# Projects\SpamBot\SpamBot\obj\Debug\net6.0-windows\refint\SpamBot.dll
+D:\C#\C# Projects\SpamBot\SpamBot\obj\Debug\net6.0-windows\SpamBot.pdb
+D:\C#\C# Projects\SpamBot\SpamBot\obj\Debug\net6.0-windows\SpamBot.genruntimeconfig.cache
+D:\C#\C# Projects\SpamBot\SpamBot\obj\Debug\net6.0-windows\ref\SpamBot.dll
